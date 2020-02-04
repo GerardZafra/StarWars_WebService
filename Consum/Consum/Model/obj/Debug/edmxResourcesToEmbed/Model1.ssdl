@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ConsumStarWarsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="usuari">
+    <Key>
+      <PropertyRef Name="name" />
+    </Key>
+    <Property Name="name" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="64" />
+    <Property Name="userType" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="ConsumStarWarsModelStoreContainer">
+    <EntitySet Name="usuari" EntityType="Self.usuari" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

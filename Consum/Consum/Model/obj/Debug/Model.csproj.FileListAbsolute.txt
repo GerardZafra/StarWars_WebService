@@ -1,0 +1,32 @@
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\bin\Debug\Model.dll
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\bin\Debug\Model.pdb
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\bin\Debug\RestSharp.dll
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\bin\Debug\RestSharp.xml
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\obj\Debug\Model.dll
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\obj\Debug\Model.pdb
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\bin\Debug\Model.dll.config
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\bin\Debug\NewsAPI.dll
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Model\bin\Debug\NewsAPI.xml
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\bin\Debug\Model.dll.config
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\bin\Debug\Model.dll
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\bin\Debug\Model.pdb
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\bin\Debug\RestSharp.dll
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\bin\Debug\RestSharp.xml
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\obj\Debug\Model.dll
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\obj\Debug\Model.pdb
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\bin\Debug\EntityFramework.dll
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\bin\Debug\EntityFramework.xml
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Consum\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Consum\Model\obj\Debug\Model.dll
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Consum\Model\obj\Debug\Model.pdb

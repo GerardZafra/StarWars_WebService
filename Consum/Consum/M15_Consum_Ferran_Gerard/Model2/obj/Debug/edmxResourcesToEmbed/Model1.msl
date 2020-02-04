@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ConsumStarWarsModelStoreContainer" CdmEntityContainer="ConsumStarWarsEntities1">
+    <EntitySetMapping Name="usuaris">
+      <EntityTypeMapping TypeName="ConsumStarWarsModel.usuari">
+        <MappingFragment StoreEntitySet="usuari">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="userType" ColumnName="userType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,41 @@
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\Controller.exe
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\Controller.pdb
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\Model.dll
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\View.dll
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\Model.pdb
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\View.pdb
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\View.dll.config
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\obj\Debug\Controller.exe
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\obj\Debug\Controller.pdb
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\Controller.exe.config
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\NewsAPI.dll
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\Model.dll.config
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\NewsAPI.xml
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\RestSharp.dll
+C:\Users\Gerard\Documents\DAM\M15 - Dual\Consum\Controller\bin\Debug\RestSharp.xml
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\Controller.exe.config
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\Controller.exe
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\Controller.pdb
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\View.dll
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\View.pdb
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\View.dll.config
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\obj\Debug\Controller.exe
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\obj\Debug\Controller.pdb
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\EntityFramework.dll
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\EntityFramework.xml
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\obj\Debug\Controller.Properties.CustomFont1.resources
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\obj\Debug\Controller.csproj.GenerateResource.cache
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\Model2.dll
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\Model2.pdb
+C:\Users\Ferran\OneDrive\M15_Dual\VisualStudio\Consum\Controller\bin\Debug\Model2.dll.config
