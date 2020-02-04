@@ -1,7 +1,7 @@
 # StarWars_WebService
 
 
-**This is an implementation of a public Web Service about Star Wars made by Paul Hamlet. **
+**This is an implementation of a public Web Service about Star Wars made by Paul Hamlet.**
 
 
 [Public WebService](https://swapi.co/)
